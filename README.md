@@ -11,7 +11,7 @@ Play Multiple Times: The user can play the game as many times as they want until
 Scoring: Whenever a winning situation occurs, points are awarded to the user. The scores accumulate if the user plays the game multiple times.
 
  
-#2. Number Guessing Game
+# 2. Number Guessing Game
 
 Generate a random number within a specified range, such as 1 to 100.
 Prompt the user to enter their guess for the generated number.
